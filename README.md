@@ -1,4 +1,4 @@
-### Hi there 👋
+### Passionate researcher in forestry, disturbance ecology, and remote sensing. Demonstrated expertise in leveraging data from different sources in ecologically meaningful way. Enthusiastic to advance skills in programming (R, Python, MATLAB) to link biological processes to spectral observations across multiple scales and time.
 
 <!--
 **ThapaBina/ThapaBina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
